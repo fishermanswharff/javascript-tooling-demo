@@ -1,0 +1,8 @@
+node_modules/
+bower_components
+.project
+.sass-cache/
+dist/
+.DS_Store
+coverage/
+*.log
